@@ -3,7 +3,7 @@ use warnings;
 
 package App::gcal;
 {
-  $App::gcal::VERSION = '1.121310';
+  $App::gcal::VERSION = '1.121460';
 }
 
 use Class::ReturnValue;
@@ -172,7 +172,7 @@ App::gcal - Command Line Interface interface to Google Calendar.
 
 =head1 VERSION
 
-version 1.121310
+version 1.121460
 
 =head1 SYNOPSIS
 

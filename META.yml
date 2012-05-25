@@ -22,6 +22,7 @@ requires:
   Data::ICal: 0
   DateTime::Format::ICal: 0
   DateTime::TimeZone: 0
+  File::Basename: 0
   Getopt::Long: 0
   ICal::Format::Natural: 0
   Net::Google::Calendar: 0
@@ -33,4 +34,4 @@ resources:
   bugtracker: https://github.com/andrewrjones/gcal/issues
   homepage: https://github.com/andrewrjones/gcal
   repository: https://github.com/andrewrjones/gcal.git
-version: 1.121310
+version: 1.121460

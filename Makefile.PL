@@ -32,6 +32,7 @@ my %WriteMakefileArgs = (
     "Data::ICal" => 0,
     "DateTime::Format::ICal" => 0,
     "DateTime::TimeZone" => 0,
+    "File::Basename" => 0,
     "Getopt::Long" => 0,
     "ICal::Format::Natural" => 0,
     "Net::Google::Calendar" => 0,
@@ -40,7 +41,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "1.121310",
+  "VERSION" => "1.121460",
   "test" => {
     "TESTS" => "t/*.t"
   }
